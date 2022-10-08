@@ -1,7 +1,0 @@
-arduino-libraries/Arduino_JSON @ ^0.1.0
-heltecautomation/ESP32_LoRaWAN @ ^2.1.1
-mikalhart/IridiumSBD @ ^2.0
-xreef/PCF8574 library @ ^2.3.4
-ayushsharma82/AsyncElegantOTA @ ^2.2.5
-mikalhart/TinyGPSPlus @ ^1.0.3
-https://github.com/me-no-dev/ESPAsyncWebServer.git
